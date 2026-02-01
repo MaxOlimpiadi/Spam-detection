@@ -1,6 +1,6 @@
 # Spam SMS Classifier (Logistic Regression from Scratch)
 
-Minimal implementation of a **binary SMS spam classifier** using **logistic regression** trained with **batch gradient descent**.  
+Minimal implementation of a **binary spam classifier** using **logistic regression** trained with **batch gradient descent**.  
 The model is trained from raw text (one message per line) and uses a simple **bag-of-words (term frequency)** representation.
 
 ## What it does
